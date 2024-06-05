@@ -1,0 +1,6 @@
+{
+  "repositoryName": "prismicio-next-ai",
+  "adapter": "@slicemachine/adapter-next",
+  "libraries": ["./slices"],
+  "localSliceSimulatorURL": "http://localhost:3000/slice-simulator"
+}
